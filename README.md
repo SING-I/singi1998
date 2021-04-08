@@ -1,2 +1,1 @@
-# Hello My name is SeungHyun Kim
-### hi
+### Hi, My name is SeungHyun Kim
